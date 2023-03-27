@@ -1,4 +1,4 @@
-# Get the max of your data with the easier way to do machine learning in Python without coding!
+# Get the max of your data with the easiest way to do machine learning without coding!
 
 PyStudio is an open-source machine learning platform to train and deploy ML models in a workflow environment. It allows you to go from preparing data to deploying a model within seconds. PyStudio is designed to avoid coding in ML experiments just drag and drop, some features are the following:
 
