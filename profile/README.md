@@ -16,5 +16,8 @@ http://pystudio.ai/
 
 https://youtu.be/sbbsViwPh20
 
-about our Twitter, website and so on...
-We are working on that! :)
+follow us on Twitter(https://twitter.com/elmPyStudio)
+
+Join us on Reddit(https://www.reddit.com/r/pyStudio/)
+
+Discuss over Slack(https://join.slack.com/t/pystudio-workspace/shared_invite/zt-1xi5r2uo4-aGSvV4gxxM68HM_FmWOVQg)
