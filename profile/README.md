@@ -12,12 +12,12 @@ PyStudio is an open-source machine learning platform to train and deploy ML mode
 #### Check our demo enviorement
 http://pystudio.ai/
 
-#### Check out PyStudio video to get clearer about our stuff!
+#### Check out [PyStudio video](https://youtu.be/sbbsViwPh20) to get clearer about our stuff!
 
-https://youtu.be/sbbsViwPh20
+#### the truth is out there!
 
-[Follow us on Twitter](https://twitter.com/elmPyStudio)
+- [Follow us on Twitter](https://twitter.com/elmPyStudio)
 
-[Join us on Reddit](https://www.reddit.com/r/pyStudio/)
+- [Join us on Reddit](https://www.reddit.com/r/pyStudio/)
 
-[Discuss over Slack](https://join.slack.com/t/pystudio-workspace/shared_invite/zt-1xi5r2uo4-aGSvV4gxxM68HM_FmWOVQg)
+- [Discuss over Slack](https://join.slack.com/t/pystudio-workspace/shared_invite/zt-1xi5r2uo4-aGSvV4gxxM68HM_FmWOVQg)
