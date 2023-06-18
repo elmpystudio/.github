@@ -14,7 +14,7 @@ http://pystudio.ai/
 
 #### Check out [PyStudio video](https://youtu.be/sbbsViwPh20) to get clearer about our stuff!
 
-#### the truth is out there!
+### The truth is out there!
 
 - [Follow us on Twitter](https://twitter.com/elmPyStudio)
 
